@@ -107,7 +107,7 @@ header {
 
 .hero-section {
   min-height: 100vh;
-  background: url("/img/main.jpg") center/cover no-repeat;
+  background: url("img/main.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   position: relative;
